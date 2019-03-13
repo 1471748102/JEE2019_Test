@@ -5,12 +5,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
 <title>登录</title>
 </head>
+
+
+
+
 <body>
 	<h1>请输入你的账号密码</h1>
 	<form action="loginstruts">
-      <label for="name">账号</label><br/>
+      <label for="name">爱的那加拿大u</label><br/>
       <input type="text" name="name"/>
       <br>
       <label for="password">密码</label><br/>
